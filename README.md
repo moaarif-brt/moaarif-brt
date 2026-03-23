@@ -1,19 +1,18 @@
 <div align="center">
 
-<!-- Ultra-Futuristic Header with Custom Animation -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:1f6feb&height=280&section=header&text=Mo%20Aarif&fontSize=80&fontColor=58a6ff&fontAlignY=55&desc=Senior%20Full%20Stack%20Engineer%20%7C%20AI%20Quantum%20Architect&descSize=22&descColor=8b949e&animation=scaleIn" width="100%" />
+<!-- Ultra-Futuristic Header (reduced overlap safe) -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Mo%20Aarif&fontSize=60&fontColor=58a6ff&fontAlignY=50&desc=Senior%20Full%20Stack%20Engineer%20%7C%20AI%20Quantum%20Architect&descSize=18&descColor=8b949e&animation=twinkle" width="100%" />
 
-<!-- Hyper-Advanced Typing Animation with AI Themes -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=1800&pause=150&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=Neural+Network+APIs+%7C+Quantum+Entanglement+Observability;Zero-Knowledge+Proofs+%7C+Autonomous+Swarm+CI%2FCD;Decentralized+Blockchain+Orchestration+%7C+Edge+AI+Mastery)](https://git.io/typing-svg)
+<!-- Hyper-Advanced Typing Animation (narrower to avoid wrapping overlap) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=250&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=90&lines=Neural+Network+APIs+%7C+Quantum+Observability;Zero-Knowledge+Proofs+%7C+Autonomous+CI%2FCD;Edge+AI+Mastery)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Elite Action Badges with Extra Links -->
+<!-- Professional Action Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-moaarif.in-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moaarif.in)
 [![GitHub](https://img.shields.io/badge/GitHub-moaarif-brt-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moaarif-brt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moaarif)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moaarif.dev@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moaarif)
 
 </div>
 
