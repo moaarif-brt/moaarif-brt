@@ -1,132 +1,98 @@
+<!-- Dynamic Header -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Welcome%20to%20Mo%20Aarif's%20World&fontSize=50&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20%E2%9C%A8%20AI%20Architect&descSize=22&descAlignY=60&animation=twinkle" width="100%" />
+</div>
 
-<!-- Ultra-Futuristic AI Header (Fixed Loading Issue) -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1f6feb&height=220&section=header&text=MO%20AARIF&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=SENIOR%20FULL%20STACK%20ENGINEER%20%7C%20AI%20%26%20QUANTUM%20ARCHITECT&descSize=18&descColor=58a6ff&animation=fadeIn" width="100%" />
-
-<br/>
-
-<!-- Premium Typing Animation with Monospace Hacker Font -->
-<a href="https://moaarif.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=INITIALIZING_NEURAL_ARCHITECTURES...;CRAFTING_ZERO_TRUST_SYSTEMS...;ARCHITECTING_WEB3_SOLUTIONS...;ENGINEERING_HIGH_PERFORMANCE_APIS..." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Sleek Cyber Social Badges -->
-<a href="https://moaarif.in"><img src="https://img.shields.io/badge/PORTFOLIO-161b22?style=for-the-badge&logo=google-chrome&logoColor=58a6ff" alt="Portfolio" /></a>
-<a href="https://github.com/moaarif-brt"><img src="https://img.shields.io/badge/GITHUB-161b22?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/moaarif"><img src="https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<a href="mailto:moaarif.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-<a href="https://twitter.com/moaarif"><img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=ffffff" alt="Twitter" /></a>
-
+<div align="center">
+  <a href="https://moaarif.in">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=F70054&center=true&vCenter=true&width=800&height=70&lines=Building+Next-Gen+Web+Applications;Architecting+AI+Models;Crafting+Beautiful+UIs;Writing+Self-Healing+Code" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
+<!-- Vibrant Social Badges -->
 <div align="center">
-  <h3 align="center">/// ENGINEERING THE FUTURE ///</h3>
-  <p align="center">
-    <b>Senior Full Stack Engineer</b> and <b>AI Architect</b> focused on pushing the limits of technology. <br> I specialize in building highly resilient backend systems, real-time artificial intelligence layers, and immersive frontend experiences.
-  </p>
+  <a href="https://moaarif.in"><img src="https://img.shields.io/badge/Portfolio-%23FF0054.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/moaarif-brt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/moaarif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:moaarif.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-<br/>
+<br><br>
 
----
+<!-- Two Column Layout: About me on the left, Stats on the right -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="center">
+      <h2 align="center">🚀 About Me</h2>
+      <p align="center">
+        Hey! I'm an ambitious <b>Senior Full Stack Engineer & AI Architect</b> who loves bridging the gap between artificial intelligence and stunning Web UI/UX. 
+      </p>
+      <p align="center">
+        ✨ <b>What I do:</b> Build scalable and high-performance apps.<br>
+        🌌 <b>My Vision:</b> Engineering the next era of Quantum AI.<br>
+        🎯 <b>Current Focus:</b> Deep Learning, Next.js, and Web3.
+      </p>
+    </td>
+    <td width="45%" align="center" valign="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=moaarif-brt&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
+<br>
 
+<h2 align="center">💎 GitHub Trophies</h2>
 <div align="center">
-  <h3 align="center">/// TECHNICAL ARSENAL ///</h3>
-  <br />
-  <p><b>CORE_LANGUAGES & SYSTEMS</b></p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,wasm,go,rust&perline=15" alt="Core Languages"/>
-  <br /><br />
-  <p><b>FRONTEND & UI_UX</b></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,figma,threejs&perline=15" alt="Frontend Frameworks"/>
-  <br /><br />
-  <p><b>BACKEND & INFRASTRUCTURE</b></p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,redis,postgres,mongodb,graphql,docker,kubernetes,githubactions,aws,gcp&perline=15" alt="Backend and Cloud"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=moaarif-brt&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" width="100%"/>
 </div>
 
-<br/>
+<br><br>
 
----
-
-<br/>
-
+<h2 align="center">💥 My Tech Stack</h2>
 <div align="center">
-  <h3 align="center">/// IMPACT MATRIX ///</h3>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=moaarif-brt&theme=transparent&hide_border=true&show_icons=true&count_private=true&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaarif-brt&theme=transparent&layout=compact&hide_border=true&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="48%" />
-  </div>
-  <br/>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaarif-brt&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&sideNums=58a6ff&sideLabels=8b949e&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" alt="GitHub Streak" />
-  </div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite,threejs&perline=10" /><br><br>
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,nodejs,go,rust,aws,gcp,docker,kubernetes&perline=10" /><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,graphql,linux,bash,vim,vscode,git,githubactions&perline=10" />
 </div>
 
-<br/>
+<br><br>
 
----
+<h2 align="center">🔥 GitHub Activity</h2>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=moaarif-brt&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaarif-brt&theme=radical&layout=compact&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<br/>
+<br>
 
 <div align="center">
-  <h3 align="center">/// QUANTUM ACTIVITY CORE ///</h3>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moaarif-brt&theme=github-dark&hide_border=true&bg_color=00000000&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb" alt="GitHub Activity Graph" width="90%"/>
+  <!-- Interactive-looking colorful graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moaarif-brt&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="90%"/>
 </div>
 
-<br/>
-
----
-
-<br/>
+<br>
 
 <div align="center">
-  <h3 align="center">/// SIGNATURE ARCHITECTURE ///</h3>
-  <br/>
-  <table width="90%" align="center">
-    <tr>
-      <td width="33%" align="center">
-        <b>BHARAT_ABHIYAN NEURAL</b><br/><br/>
-        <small>AI multi-tenant platform with predictive analytics & 99.99% SLA.</small>
-      </td>
-      <td width="33%" align="center">
-        <b>TASK_MANAGEMENT SWARM</b><br/><br/>
-        <small>Next-gen orchestrated task distribution with autonomous CI/CD.</small>
-      </td>
-      <td width="33%" align="center">
-        <b>APP_MANAGEMENT AI</b><br/><br/>
-        <small>Distributed orchestration leveraging edge AI and secure architecture.</small>
-      </td>
-    </tr>
-  </table>
-  <br/>
+  <img src="https://raw.githubusercontent.com/moaarif-brt/moaarif-brt/output/github-snake-dark.svg" alt="github-snake" width="90%" />
 </div>
 
-<br/>
-
----
-
-<br/>
+<br>
 
 <div align="center">
-  <h3 align="center">/// SYSTEM TERMINAL ///</h3>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moaarif-brt/moaarif-brt/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moaarif-brt/moaarif-brt/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/moaarif-brt/moaarif-brt/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
-<br/>
+<br><br>
 
+<!-- Footer -->
 <div align="center">
-  <p><img src="https://komarev.com/ghpvc/?username=moaarif-brt&color=1f6feb&style=flat-square&label=SYS.VIEWS" alt="Profile views" /></p>
-  <p><samp>SYSTEM.OUT.PRINTLN("ARCHITECTING THE UNKNOWN");</samp></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
 </div>
