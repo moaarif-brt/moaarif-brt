@@ -1,6 +1,6 @@
-<!-- Dynamic Header -->
+<!-- Dynamic Vibrant Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Welcome%20to%20Mo%20Aarif's%20World&fontSize=50&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20%E2%9C%A8%20AI%20Architect&descSize=22&descAlignY=60&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Welcome%20to%20Mo%20Aarif's%20World&fontSize=50&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20%7C%20AI%20Architect&descSize=22&descAlignY=60&animation=twinkle" width="100%" />
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 <br/>
 
-<!-- Vibrant Social Badges -->
+<!-- Neon Social Badges -->
 <div align="center">
   <a href="https://moaarif.in"><img src="https://img.shields.io/badge/Portfolio-%23FF0054.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/moaarif-brt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -25,14 +25,14 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="55%" valign="center">
-      <h2 align="center">🚀 About Me</h2>
+      <h3 align="center">/// ABOUT ME ///</h3>
       <p align="center">
         Hey! I'm an ambitious <b>Senior Full Stack Engineer & AI Architect</b> who loves bridging the gap between artificial intelligence and stunning Web UI/UX. 
       </p>
       <p align="center">
-        ✨ <b>What I do:</b> Build scalable and high-performance apps.<br>
-        🌌 <b>My Vision:</b> Engineering the next era of Quantum AI.<br>
-        🎯 <b>Current Focus:</b> Deep Learning, Next.js, and Web3.
+        <b>[ FOCUS ]</b> Build scalable and high-performance apps.<br>
+        <b>[ VISION ]</b> Engineering the next era of Quantum AI.<br>
+        <b>[ PATH ]</b> Deep Learning, Next.js, and Web3.
       </p>
     </td>
     <td width="45%" align="center" valign="center">
@@ -41,16 +41,9 @@
   </tr>
 </table>
 
-<br>
-
-<h2 align="center">💎 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moaarif-brt&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" width="100%"/>
-</div>
-
 <br><br>
 
-<h2 align="center">💥 My Tech Stack</h2>
+<h3 align="center">/// TECHNICAL EXPERTISE ///</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite,threejs&perline=10" /><br><br>
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,nodejs,go,rust,aws,gcp,docker,kubernetes&perline=10" /><br><br>
@@ -59,7 +52,7 @@
 
 <br><br>
 
-<h2 align="center">🔥 GitHub Activity</h2>
+<h3 align="center">/// GITHUB ACTIVITY METRICS ///</h3>
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" align="center">
@@ -75,7 +68,7 @@
 
 <div align="center">
   <!-- Interactive-looking colorful graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moaarif-brt&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moaarif-brt&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="90%"/>
 </div>
 
 <br>
