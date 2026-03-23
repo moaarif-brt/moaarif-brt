@@ -1,68 +1,60 @@
-# Mo Aarif — Senior Full Stack Engineer
+<div align="center">
+  <h1>Mo Aarif</h1>
+  <p>Senior Full Stack Engineer | API Craftsman | Production Reliability Advocate</p>
+  <p>From architecture blueprint to final deploy, I build products that scale and last.</p>
+  <p>
+    <a href="https://moaarif.in">Portfolio</a> • 
+    <a href="https://github.com/moaarif-brt">GitHub</a> • 
+    <a href="https://linkedin.com/in/moaarif">LinkedIn</a>
+  </p>
+</div>
 
-> Instrumenting production-grade products end-to-end: from API contracts to user-facing experience.
+---
 
-## Snapshot
+## 🚀 What I ship
 
-- 5+ years in full stack delivery, 15+ backend services deployed, 3 products in live use.
-- Delivered 99.9% API uptime with observability and SLO-driven reliability.
-- Reduced cycle time 35% with automated CI/CD and trunk-based flow.
+- End-to-end platforms (backend API, frontend UX, infrastructure, observability).
+- Modular systems designed for 0 trust, 99.9% uptime, and recoverable failure modes.
+- CI/CD workflows that release safely with automated validation and rollback.
 
-## Core Practice Areas
+## 💥 Professional POV
 
-1. **Architecture & Scalability**
-   - Domain-driven design, hexagonal architecture, bounded contexts.
-   - Fault tolerant systems: circuit breakers, rate limits, exponential backoff.
-   - Data strategy: normalized relational design, event sourcing principles, caching layers.
+- **Quality > Quantity**: ’Done‘ means tested, documented, and maintainable.
+- **Ownership mindset**: if it breaks in production, I don’t just patch; I architect the fix.
+- **Cross-team empathy**: I translate product needs into real code, and code into business outcomes.
 
-2. **API & Integration**
-   - REST + OpenAPI-first contracts; >500 endpoints with versioning, consumer compatibility guardrails.
-   - OAuth2/JWT auth, RBAC, token revocation, audit trails.
-   - External integrations: payment gateways, SMS providers, analytics pipelines.
+## 🛠 Tech gear (selective)
 
-3. **Quality & Delivery**
-   - Test pyramid: unit, service, integration, contract tests.
-   - Static checks: mypy/pylint/eslint, security scans (Snyk/Dependabot), OWASP mitigations.
-   - GitHub Actions pipelines for build/test/deploy, canary rollout, tagged release workflow.
+- Python (Django, DRF, FastAPI), TypeScript (React, Next.js)
+- PostgreSQL, Redis, Docker, Kubernetes, GitHub Actions
+- Sentry, Prometheus, Grafana, OpenTelemetry, Terraform
 
-4. **Ops & Observability**
-   - Container-first deployments (Docker + Kubernetes/OpenShift/Render).
-   - Logging/metrics/tracing: ELK/Prometheus/Grafana/Jaeger.
-   - Incident postmortem culture with action items and blameless reports.
+## ✨ Signature deliveries
 
-## Technical Profile
+- **BharatAbhiyan**: Delivered multi-tenant advocacy platform with 10k+ active users, analytics, RBAC, and 99.7% SLA.
+- **Task Management API**: Refactored monolith into clean domains, 90% coverage, 4x throughput growth.
+- **App Management Dashboard**: Implemented resilient 3rd-party orchestration and load-tested system for <80ms page response.
 
-- Backend: Python (Django, DRF, FastAPI), Node.js, PostgreSQL, Redis, Celery, RabbitMQ
-- Frontend: React, Next.js, TypeScript, Tailwind CSS, Storybook
-- Infra: Docker, Nginx, GitHub Actions, Terraform, AWS (EC2, RDS, S3), DigitalOcean
-- Tools: Git, VS Code, Postman, Figma, Sentry, Prometheus, Grafana
+## 📈 Metrics that matter
 
-## Selected Impact Projects
+- 35% cycle time reduction via trunk-based development + gated checks.
+- 0 critical incidents in last 6 months after moving to canary rollout + observability alerts.
+- 500+ open-source contributions reviewed or authored.
 
-### BharatAbhiyan  (FastAPI + Next.js)
-- Built a campaign management platform with 10K+ users and realtime analytics.
-- Implemented secure multi-tenant API, role-level controls, and 99.7% SLA.
-- Deployed with CI pipeline, infrastructure as code, and 30s rollback support.
+---
 
-### Task Management API (Django REST)
-- Migrated legacy code into modular services with 90% test coverage and improved throughput 4x.
-- Added API versioning, payload validation, and data migrations that supported safe rollback.
+## ✍️ How I work
 
-### App Management System (Django + React)
-- Engineered resilient orchestration of 3rd-party integrations with idempotent retry strategy.
-- Introduced performance budgets and load testing that dropped response time 55%.
+1. Write the API contract first (OpenAPI + examples).
+2. Build minimal, ship fast, gather telemetry.
+3. Iterate with real user data and engineering reviews.
 
-## Open source & community
-- Frequent contributor: issue triage, PR reviews and security fixes to public Python packages.
-- Shared architecture notes and patterns via blog posts and conference talks.
+---
 
-## Where to find me
+## 🤝 Let's connect
+
 - Portfolio: https://moaarif.in
 - GitHub: https://github.com/moaarif-brt
 - LinkedIn: https://linkedin.com/in/moaarif
 - Email: moaarif.dev@gmail.com
-
-## Growth trajectory
-- Continuously improving systems design fluency, observability-first engineering, and developer experience.
-- Focused on mentoring, code quality ownership, and architecting for long-term maintainability.
 
